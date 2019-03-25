@@ -25,14 +25,14 @@
 }
 h1 {
   text-align: center;
-  font-size: 14px;
   border: dotted;
   color:maroon;
   float:inherit;
+  font-size: 20px;
 }
 p {
   color:black;
-  font-size:28px;
+  font-size:14px;
   text-align:left;
 }
  ul li{
@@ -44,3 +44,4 @@ h2 {
   font-size:14px;
   border: dotted;
 }
+
