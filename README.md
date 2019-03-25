@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- THE TRIANGLE TRACKER
-=======
 THE TRIANGLE TRACKER
->>>>>>> 0fc149342e52cdb9be0280b48fd419cd977b4dda
 
 {Author}
 Juliet Chepngetich Koech
