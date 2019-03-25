@@ -2,9 +2,7 @@
   background-color: #333;
   overflow: hidden;
 }
-.body{
-  background-image:url("../images/crop(1).jpeg")
-}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
@@ -27,22 +25,22 @@
 }
 h1 {
   text-align: center;
-  text-size: 28px;
+  font-size: 28px;
   border: dotted;
   color: maroon;
   float:inherit;
 }
 p {
   color: black;
-  text-size:59px;
+  font-size:59px;
   text-align:left;
 }
  ul li{
-  text-size:59px;
-  color
+  font-size:59px;
+  /* color */
 }
 h2 {
   text-align: center;
-  text-size:28px:
+  font-size:28px;
   border: dotted;
 }
