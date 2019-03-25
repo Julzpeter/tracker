@@ -1,12 +1,12 @@
-THE TRIANGLE TRACKER
+# THE TRIANGLE TRACKER
 
-{Author}
+### Author
 Juliet Chepngetich Koech
 
-{Date of current version}
+### Date of current version
 24th March 2019
 
-{Description of the Project / Application}
+{Description of the Project / Application
 Triangle Tracker takes the lengths of three sides and determines if they form a valid triangle. If so, the tracker returns the name of the kind of triangle the sides make (equilateral, isosceles, scalene)
 
  {Instructions}
@@ -19,32 +19,32 @@ Triangle Tracker takes the lengths of three sides and determines if they form a 
  If Scalene triangles, the sum of two values will be greater than the third, so it will alert Scalene triangle
 
 
-{Setup/Installation Requirements}
+### Setup/Installation Requirements
 You need to install Atom, Visual Studio Code and Js fiddle for this project to work.
 
-{Behavior Driven Development}
-|Behavior What program it handles           |input                  | output           
-|-------------------------------------------|-----------------------|--------------------|
-|If two sides are equal                     |side1=2,side2=2,side3=1|Isosceles Triangle  |
-|If all sides are equal                     |side1=4,side2=4,side3=4|Equilateral Triangle|
-|Sum of two sides are greater than the third|side1=7,side2=6,side3=4|Scalene Triangle    |
-|Two sides less than the third side         |side1=1,side2=2,side3=3|Not a triangle      |
+### Behavior Driven Development
+| Behavior What program it handles            |  input                  | output              |      
+|---------------------------------------------|-------------------------|---------------------|
+| If two sides are equal                      | side1=2,side2=2,side3=1 | Isosceles Triangle  |
+| If all sides are equal                      | side1=4,side2=4,side3=4 | Equilateral Triangle|
+| Sum of two sides are greater than the third | side1=7,side2=6,side3=4 | Scalene Triangle    |
+| Two sides less than the third side          | side1=1,side2=2,side3=3 | Not a triangle      |
 
 
 
-{languages Used}
+### languages Used
 HTML
 CSS
 JAVA SCRIPT
 
-{Known Bugs}
+### Known Bugs
 there are no bugs.
 
- {Support and contact details}
+### Support and contact details
 Mobile number: 0717170902
 Email: chepngetichjuliet@gmail.com
 
-{License}
+### License
 MIT License
 
 Copyright (c) 2019 Julzpeter
