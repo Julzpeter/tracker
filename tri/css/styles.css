@@ -2,7 +2,9 @@
   background-color: #333;
   overflow: hidden;
 }
-
+.body{
+  background-image:url("../images/crop(1).jpeg")
+}
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
