@@ -27,11 +27,11 @@ h1 {
   text-align: center;
   font-size: 28px;
   border: dotted;
-  color: maroon;
+  color:maroon;
   float:inherit;
 }
 p {
-  color: black;
+  color:black;
   font-size:59px;
   text-align:left;
 }
