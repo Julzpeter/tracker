@@ -44,4 +44,7 @@ h2 {
   font-size:14px;
   border: dotted;
 }
-
+@media screen and (max-height: 450px) {
+  .topnav {
+    padding-top:15px;
+  }
